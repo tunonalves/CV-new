@@ -1,0 +1,1 @@
+/home/fta/CV-main/venv/lib/python3.11/site-packages/django/contrib/admin/static/admin/css/vendor/select2/LICENSE-SELECT2.md

@@ -1,0 +1,1 @@
+/home/fta/CV-main/static/js/scripts.js
